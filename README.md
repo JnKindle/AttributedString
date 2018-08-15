@@ -6,3 +6,5 @@
 那我们怎么去实现呢？
 
 也就是实现下UITextView的代理就可以啦，很简单的，具体看Demo
+
+CSDN：https://blog.csdn.net/RangingWon/article/details/81670233
